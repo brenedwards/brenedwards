@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 I'm Brennen Edwards, a passionate developer with a love for coding and creating.
 
 🚀 Currently exploring new technologies and frameworks.
