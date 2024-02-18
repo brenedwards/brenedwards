@@ -1,3 +1,4 @@
+<body style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; text-align: center;">
 <h1>
   Hi there!
   I'm Brennen Edwards
@@ -10,7 +11,7 @@
 
 
 
-I'm Brennen Edwards
+
 
 🚀 Currently exploring new technologies and frameworks.
 
