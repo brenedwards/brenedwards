@@ -6,7 +6,7 @@
 </h1>
 
 <div id="header" align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g4ZHRpcmI4MXA2bW1rcHc1NGFuMDVqeWp3YWd6OGRrZW5qbXo1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="15px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g4ZHRpcmI4MXA2bW1rcHc1NGFuMDVqeWp3YWd6OGRrZW5qbXo1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="30px" />
 </div>
 
 
