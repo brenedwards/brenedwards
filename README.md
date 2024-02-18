@@ -10,7 +10,9 @@ I'm Brennen Edwards, a passionate developer with a love for coding and creating.
 
 🌐 Find me on the web:
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/brennen-edwards-053252131/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <!-- Add more badges here -->
 </div>
 
